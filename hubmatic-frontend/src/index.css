@@ -1,0 +1,56 @@
+/* Reset + Base Styles */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Segoe UI", sans-serif;
+  background-color: #f5f6fa;
+  color: #222;
+  height: 100vh;
+  overflow: hidden;
+}
+
+a {
+  color: #d63384;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.sidebar {
+  width: 240px;
+  height: 100vh;
+  background-color: #fff;
+  padding: 20px;
+  border-right: 1px solid #e0e0e0;
+}
+
+.sidebar h1 {
+  color: #d63384;
+  margin-bottom: 30px;
+}
+
+.sidebar nav a {
+  display: block;
+  padding: 10px 0;
+  color: #333;
+}
+
+.sidebar nav a.active {
+  font-weight: bold;
+  color: #d63384;
+}
+
+.topbar {
+  height: 60px;
+  padding: 0 20px;
+  background-color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom:
