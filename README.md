@@ -84,3 +84,25 @@ Public API builder
 AI-powered auto-flow creation
 
 Stay tuned 💫
+
+
+☕ Support This Project
+If you’d like to support development and help keep Hubmatic free for everyone,
+you can buy me a coffee 💖
+
+
+🚫 License & Usage
+All Rights Reserved.
+You may:
+View the source
+Learn from the architecture
+
+You may NOT:
+Copy, reuse, or redistribute the code
+Publish derived projects
+
+Contact: jenneilinemarie@gmail.com for usage permissions.
+
+🌟 Created by
+Jenneiline Marie Manuel — with 💖 for teams, creators, and automation lovers.
+
